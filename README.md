@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá !
+### Sou formado em Telecomunicações e atualmente focado em Ciência de Dados. Tenho grande interesse em análise e manipulação de dados, utilizando Python e bibliotecas como numpy e pandas. Também possuo experiência com bancos de dados SQL.
 <!--
 **PauloBonatti/PauloBonatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
